@@ -1,12 +1,12 @@
 # Site settings
 title: 希颜♥us
-email: your-email@domain.com
+email: m@chuinb.com
 description: > # this means to ignore newlines until "baseurl:"
   你长着一对翅膀。坚韧地飞吧，不要为风雨所折服；诚挚地飞吧，不要为香甜的蜜汁所陶醉。朝着明确的目标，飞向美好的人生。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-powerd by: 6xiy
-gifts for:  xiyan
+url: "http://6xiy.cn" # the base hostname & protocol for your site
+twitter_username: moxigan
+github_username:  jk25084
 
 # Build settings
 markdown: kramdown

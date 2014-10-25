@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://6xiy.cn" # the base hostname & protocol for your site
 twitter_username: mox1gan
 github_username:  jk25084
-paginate: 2
+paginate: 10
 paginate_path: "page:num"
 
 # Build settings

@@ -4,8 +4,8 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">开心面对，幸福生活</h1>
-
+  <h1 class="page-heading">开心面对，幸福生活 <a href="{{ "/feed.xml" | prepend: site.baseurl }}">订阅</a></h1>
+  
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -28,6 +28,5 @@ layout: default
     {% endif %}  
   {% endif %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

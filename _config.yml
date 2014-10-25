@@ -1,4 +1,5 @@
 # Site settings
+encoding: utf-8
 title: 希颜♥us
 email: m@chuinb.com
 description: > # this means to ignore newlines until "baseurl:"

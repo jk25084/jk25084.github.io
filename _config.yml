@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   你长着一对翅膀。坚韧地飞吧，不要为风雨所折服；诚挚地飞吧，不要为香甜的蜜汁所陶醉。朝着明确的目标，飞向美好的人生。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://6xiy.cn" # the base hostname & protocol for your site
-twitter_username: moxigan
+twitter_username: mox1gan
 github_username:  jk25084
 
 # Build settings

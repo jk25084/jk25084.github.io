@@ -6,14 +6,15 @@ date:   2014-10-27 20:42:11
 上镜开笑，分享我的快乐
 =======
 
-现在[优酷][1]、[百度][2]、[腾讯][3]上都有我的视频啦。
+现在[优酷][1]、[百度][2]、[腾讯][3]上都有我的video啦。
 
-*不过要低调，毕竟人家只是想做个安静的美女子啦~*
+*不过要低调，毕竟人家只是想做一朵安静的美女子啦~*
 
 以后视这些网站的表现，不定期分别作更新，第一回就用审核第二快，分享最方便的优酷吧
 
 <iframe height="498" width="510" src="http://player.youku.com/embed/XODEyNzM3MjI0" frameborder="0" allowfullscreen="1"> </iframe>
 
+*ps:爸爸为了让上面这个视频能够在各个设备上都显示正常，一个晚上都没玩得成，提交了18次commits* :thumbsup:
 
   [1]: http://v.youku.com/v_show/id_XODEyNzM3MjI0.html
   [2]: http://pan.baidu.com/s/1dDu4kt7

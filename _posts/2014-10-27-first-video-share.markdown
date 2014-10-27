@@ -13,7 +13,7 @@ date:   2014-10-27 20:42:11
 
 以后视这些网站的表现，不定期分别作更新，第一回就用审核第二快，分享最方便的优酷吧
 
-<embed src="http://player.youku.com/player.php/sid/XODEyNzM3MjI0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XODEyNzM3MjI0" frameborder=0 allowfullscreen></iframe>
 
 
   [1]: http://v.youku.com/v_show/id_XODEyNzM3MjI0.html

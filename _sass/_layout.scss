@@ -237,6 +237,6 @@
 
 @include media-query($on-palm) {
 	iframe {
-		max-width:320px;
+		max-width:100%;
 	}
 }

@@ -237,7 +237,8 @@
 
 @include media-query($on-palm) {
 	iframe {
-		width: 320px;
-		height: 300px;
+		-webkit-transform: scale(0.5);
+		-webkit-transform-origin: 0 0;
+		border: solid 1px #000;
 	}
 }

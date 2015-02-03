@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "看爸爸妈妈吃牛排"
+date:   2015-02-03 20:15:11
+---
+确实是只能看不能吃
+=======
+所以这不是一次愉快的经历
+
+刚开始我还充满期待, 吃什么好呢?
+
+![alt text][1]
+
+爸爸你说呢?
+
+![alt text][2]
+
+啥? 只给看不给吃啊???
+
+![alt text][3]
+
+其实开玩笑的啦, 你看我养的白白胖胖的, 舌头都比别人长
+
+![alt text][4]
+
+
+  [1]: http://pic.yupoo.com/moxigan/EpcX2dkv/medium.jpg
+  [2]: http://pic.yupoo.com/moxigan/EpcX3Fqz/medium.jpg
+  [3]: http://pic.yupoo.com/moxigan/EpcX3VB6/medium.jpg
+  [4]: http://pic.yupoo.com/moxigan/EpcXubyu/medium.jpg

@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 title: 最新视频三连发
-date: 2015-10-22T00:00:00.000Z
+date: {}
 ---
+
 
 ## 最新视频三连发
 
@@ -18,5 +19,3 @@ date: 2015-10-22T00:00:00.000Z
 3. 没会走，就会骑车的又一案例
 
 <iframe height="498" width="510" src="http://player.youku.com/embed/XODEyNzM3MjI0" frameborder="0" allowfullscreen="1"> </iframe>
-
-

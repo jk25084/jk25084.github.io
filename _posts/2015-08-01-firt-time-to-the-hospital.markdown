@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "第一次生病去医院"
-date:   2015-08-01 20:35:11
+title: 第一次生病去医院
+date: 2015-08-01T00:00:00.000Z
+published: true
 ---
+
 第一次生病去医院
 =======
 
@@ -27,5 +29,5 @@ date:   2015-08-01 20:35:11
 注：高烧期间的很多照片暂时遗失了，待召回
 
 
-  [1]: http://photo.yupoo.com/moxigan/EQqI7iWo/medish.jpg
-  [2]: http://photo.yupoo.com/moxigan/EQqIf8E6/medish.jpg
+  [1]: http://pic.yupoo.com/moxigan/F2VwleaO/medish.jpg
+  [2]: http://pic.yupoo.com/moxigan/F2VwTfZM/medish.jpg

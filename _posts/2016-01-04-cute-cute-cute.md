@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 title: 摄影技术的较量
 ---
+
 
 ## 首先映入眼帘的是一组凸显逼格的高端摄影
 
@@ -21,5 +22,3 @@ title: 摄影技术的较量
 ![](http://pic.yupoo.com/moxigan/Feb89Wvg/medium.jpg)
 
 > 好吧，可能是相机的原因 -- 来自爸爸
-
-

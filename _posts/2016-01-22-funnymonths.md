@@ -26,8 +26,8 @@ title: 年初的时候还不会说话
 
 - 看看我的大脑门儿，里面现在充满了好奇，将来要装满知识
 
-![image](http://photo.yupoo.com/moxigan/FGVbYgQq/medish.jpg)
+![image](http://pic.yupoo.com/moxigan/FGVbYgQq/medish.jpg)
 
 - 休息，休息一下
 
-![image](http://photo.yupoo.com/moxigan/FGVclaYt/medish.jpg)
+![image](http://pic.yupoo.com/moxigan/FGVclaYt/medish.jpg)

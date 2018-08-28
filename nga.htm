@@ -1,0 +1,142 @@
+<html>
+<script src="https://lib.baomitu.com/vue/2.5.17/vue.js"></script>
+<script src="https://lib.baomitu.com/vue-resource/1.5.1/vue-resource.js"></script>
+<link href="https://lib.baomitu.com/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+<style>
+	*{
+		margin: 0;padding: 0;
+	}
+	body{
+		background-color:#474642;
+		overflow-y:hidden;
+	}
+	#control-bar{
+		position:fixed;
+		top: 0;
+		left:0;
+		width:100%;
+		line-height: 40px;
+		color: #fff;
+		text-align: right;
+		background-color:#591804;
+	}
+	#control-bar span{
+		cursor: pointer;
+		padding: 10px 20px;
+	}
+	#main{
+		margin-top:40px;
+	}
+	#list{
+		height: 100%;
+		overflow-y: scroll;
+	}
+	#list>li{
+		list-style-type:none;
+		padding-left: 10px;
+	}
+	#list>li:nth-child(odd) {
+		background-color: #1d1b18;
+	}
+	#list a{
+		text-decoration: none;
+    	color: #fff;
+		line-height: 30px;
+	}
+	#list a:visited{
+		color:lightblue;
+	}
+	[class*="col-"] {
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+</style>
+<body>
+<div id="app" class="container-fluid">
+	<div id="main" class="row">
+		<div class="col-md-4">
+			<ul id="list">
+				<li v-for="item in resp.items">
+					<a :href="'http://bbs.ngacn.cc/read.php?tid='+item.tid" target="browser">{{ item.subject }}</a> 
+				</li>
+			</ul>
+		</div>
+		<div class="col-md-8">
+			<iframe name="browser" src="http://bbs.ngacn.cc/" width="100%" height="100%"></iframe>
+		</div>      
+	</div>
+
+<div id="control-bar"><span @click="toogle">{{controlbar.text}}</span></div>
+</div>
+</body>
+<script>
+var listens = [
+			"http://bbs.ngacn.cc/thread.php?fid=-7&page=1&lite=js"
+		];
+var content = {items:[]};
+var app = new Vue({
+	el: "#app",
+	data:{
+		resp: content,
+		controlbar:{text: "▶", status:"start"},
+		interval:{}
+	},
+	methods:{
+		start:function(){
+			this.controlbar.text="‖";			
+			this.controlbar.status="start";
+			collect();
+			this.interval=setInterval(collect, 10000);
+		},
+		pause:function(){
+			this.controlbar.text="▶";			
+			this.controlbar.status="pause";
+			clearInterval(this.interval);
+		},
+		toogle:function(){
+			if(this.controlbar.status=="start") this.pause();
+			else this.start();
+		}
+	},
+	mounted: function () {
+		this.$nextTick(function () {
+			this.start();
+		})
+	}
+});
+var ngaHandler = function(){
+	var maxlength=100;
+	for(var n=0;n<40;n++){
+		var t = script_muti_get_var_store.data.__T[n];
+		if(typeof(t)=="undefined"){
+			continue;
+		}
+		var existed = false;
+		for(var i in content.items){
+			if(content.items[i].tid==t.tid){
+				existed = true;
+				break;
+			}
+		}
+		if(!existed){
+			content.items.push(t);
+		}
+		
+		if(content.items.length>maxlength)
+			content.items.splice(0, maxlength/2); 
+	}
+}
+var collect = function(){
+	listens.forEach(function(url){
+		var script = document.createElement('script');
+        script.src = url;
+        script.type = 'text/javascript';
+		script.charset="gb2312";
+        script.async = true;
+        script.onload = function(){ngaHandler();document.body.removeChild(script);}
+
+        document.body.appendChild(script);
+	})
+};
+</script>
+</html>

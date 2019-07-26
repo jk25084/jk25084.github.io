@@ -8,5 +8,4 @@ auth.weixinAuthProvider({
     scope: 'snsapi_base'     //网页授权类型
 }).signIn()
 .then(res=> app.callFunction({ name: 'access', data: { }}))
-.then(console.log)
 .catch(console.error);

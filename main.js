@@ -4,8 +4,8 @@ var app = tcb.init({
 
 var auth = tcb.auth({persistence: 'session'})
 auth.weixinAuthProvider({
-    appid: 'wx8b0f73bdf6343e00',  //微信应用appid
-    scope: 'snsapi_base'     //网页授权类型
+    appid: 'wx8b0f73bdf6343e00',
+    scope: 'snsapi_base'
 }).signIn()
 .then(res=> app.callFunction({ name: 'access', data: { }}))
 .catch(console.error);

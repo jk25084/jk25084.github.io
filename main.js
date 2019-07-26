@@ -1,3 +1,7 @@
+var app = tcb.init({
+    env: 'moxigan'
+  })
+
 app.callFunction({
   // 云函数名称
   name: 'test',

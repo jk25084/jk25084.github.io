@@ -21,10 +21,10 @@ date:   2014-11-19 22:27:11
 *小心伺候着!!听到没有??*
 
 
-  [1]: http://pic.yupoo.com/moxigan/EdFcYCNa/medium.jpg
-  [2]: http://pic.yupoo.com/moxigan/EdFcVWyB/medium.jpg
-  [3]: http://pic.yupoo.com/moxigan/EdFcU3eM/medium.jpg
-  [4]: http://pic.yupoo.com/moxigan/EdFcQUrl/medium.jpg
-  [5]: http://pic.yupoo.com/moxigan/EdFcMLPc/medium.jpg
-  [6]: http://pic.yupoo.com/moxigan/EdFcJbG1/medium.jpg
-  [7]: http://pic.yupoo.com/moxigan/EdFcFdac/medium.jpg
+  [1]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/6fd45a37.jpg
+  [2]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/b583d9ab.jpg
+  [3]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/a004ae5b.jpg
+  [4]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/e2d0bf1d.jpg
+  [5]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/54574788.jpg
+  [6]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/a72771d5.jpg
+  [7]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/fbfd585b.jpg

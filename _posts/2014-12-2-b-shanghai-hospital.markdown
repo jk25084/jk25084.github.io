@@ -38,10 +38,10 @@ date:   2014-12-2 23:35:11
 ![alt text][7]
 瞧我处事不惊的样子
 
-  [1]: http://pic.yupoo.com/moxigan/EfMjR22n/medish.jpg
-  [2]: http://pic.yupoo.com/moxigan/EfDWJfeK/medium.jpg
-  [3]: http://pic.yupoo.com/moxigan/EfDXGIul/medium.jpg
-  [4]: http://pic.yupoo.com/moxigan/EfDYmUQz/medium.jpg
-  [5]: http://pic.yupoo.com/moxigan/EfDXFSqt/medium.jpg
-  [6]: http://pic.yupoo.com/moxigan/EfDWAztK/medium.jpg
-  [7]: http://pic.yupoo.com/moxigan/EfDWKENv/medium.jpg
+  [1]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/fd2767ff.jpg
+  [2]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/8922005c.jpg
+  [3]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/f2c6fdf0.jpg
+  [4]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/fd07b683.jpg
+  [5]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/65061390.jpg
+  [6]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/f5e006f7.jpg
+  [7]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/8922005c.jpg

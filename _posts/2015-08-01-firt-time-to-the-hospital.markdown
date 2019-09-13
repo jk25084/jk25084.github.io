@@ -29,5 +29,5 @@ published: true
 注：高烧期间的很多照片暂时遗失了，待召回
 
 
-  [1]: http://pic.yupoo.com/moxigan/F2VwleaO/medish.jpg
-  [2]: http://pic.yupoo.com/moxigan/F2VwTfZM/medish.jpg
+  [1]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/5e34e320.jpg
+  [2]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/7736b3d4.jpg

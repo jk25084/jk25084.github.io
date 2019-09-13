@@ -33,9 +33,9 @@ date:   2015-05-06 20:35:11
 回避!回避! 你懂不懂中华人民共和国保密法!
 
 
-  [1]: http://pic.yupoo.com/moxigan/EDcG1bbo/medish.jpg
-  [2]: http://pic.yupoo.com/moxigan/EDcG2SxD/medish.jpg
-  [3]: http://pic.yupoo.com/moxigan/EDcG55iX/medish.jpg
-  [4]: http://pic.yupoo.com/moxigan/EDcG6kdS/medish.jpg
-  [5]: http://pic.yupoo.com/moxigan/EDcHtFNv/medish.jpg
-  [6]: http://pic.yupoo.com/moxigan/EDcHv9H4/medish.jpg
+  [1]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/be23dafc.jpg
+  [2]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/3d8642a6.jpg
+  [3]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/60e93d99.jpg
+  [4]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/6d4c29b2.jpg
+  [5]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/1b319699.jpg
+  [6]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/efa05f43.jpg

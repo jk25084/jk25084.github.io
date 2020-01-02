@@ -19,10 +19,10 @@ title: 2020第一天在恐龙园
 ![image](https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/IMG20191207163729.jpg)
 ![image](https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/IMG20191207184737.jpg)
 
-##看4D电影，水太臭，而且吓得完全不敢看
+## 看4D电影，水太臭，而且吓得完全不敢看
 ![image](https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/IMG20200101163556.jpg)
 
-#无忧无虑，金色麦田，充满希望
+## 无忧无虑，金色麦田，充满希望
 ![image](https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/IMG20200101192802.jpg)
 ![image](https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/IMG20200101192819.jpg)
 ![image](https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/IMG20200101193625.jpg)

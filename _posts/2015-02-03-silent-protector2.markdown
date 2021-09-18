@@ -18,7 +18,7 @@ date:   2015-02-03 20:05:11
 
 share一段我和海马一起玩的视频
 
-<iframe height="498" width="510" frameborder="0"  src="https://player.youku.com/embed/XODg1ODMwNDIw" allowFullScreen="true"></iframe>
+<iframe height="498" width="510" frameborder="0"  src="https://v.youku.com/v_show/id_XODg1ODMwNDIw" allowFullScreen="true"></iframe>
 
 
   [1]: https://6d6f-moxigan-1259722256.tcb.qcloud.la/xy/e9395693.jpg

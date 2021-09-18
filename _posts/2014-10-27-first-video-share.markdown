@@ -10,9 +10,6 @@ date:   2014-10-27 20:42:11
 
 *不过要低调，毕竟人家只是想做一朵安静的美女子啦~*
 
-以后视这些网站的表现，不定期分别作更新，第一回就用审核第二快，分享最方便的优酷吧
-
-<iframe height="498" width="510" src="http://player.youku.com/embed/XODEyNzM3MjI0" frameborder="0" allowfullscreen="1"> </iframe>
 
 优酷看来不行了，用腾讯的吧
 

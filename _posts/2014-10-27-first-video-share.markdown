@@ -14,6 +14,10 @@ date:   2014-10-27 20:42:11
 
 <iframe height="498" width="510" src="http://player.youku.com/embed/XODEyNzM3MjI0" frameborder="0" allowfullscreen="1"> </iframe>
 
+优酷看来不行了，用腾讯的吧
+
+<iframe height="498" width="510" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=v01391om470" allowFullScreen="true"></iframe>
+
 *ps:爸爸为了让上面这个视频能够在各个设备上都显示正常，一个晚上都没玩得成，提交了18次commits* :thumbsup:
 
   [1]: http://v.youku.com/v_show/id_XODEyNzM3MjI0.html

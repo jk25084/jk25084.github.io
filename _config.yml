@@ -15,5 +15,6 @@ paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
+future: true
 
 theme: jekyll-theme-minimal
